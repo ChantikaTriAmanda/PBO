@@ -46,13 +46,13 @@ Repository untuk mengupload Tugas-Tugas Matakuliah Pemrograman Berorientasi Obje
    
         public class helloWorld {
     
-        public static void main(String[] args){
+         public static void main(String[] args){
         
-         System.out.print("Hello World!");
+           System.out.print("Hello World!");
         
-         System.out.println(" Pemrograman Berorientasi Objek");
+           System.out.println(" Pemrograman Berorientasi Objek");
     
-        }
+         }
    
         }
   
