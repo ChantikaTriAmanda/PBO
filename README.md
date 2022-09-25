@@ -23,11 +23,17 @@ Repository untuk mengupload Tugas-Tugas Matakuliah Pemrograman Berorientasi Obje
 4. Membuat program helloWorld
    
    Sintak :
+   
    public class helloWorld {
+    
     public static void main(String[] args){
+        
         System.out.print("Hello World!");
+        
         System.out.println(" Pemrograman Berorientasi Objek");
+    
     }
+   
    }
   
 ![image](https://user-images.githubusercontent.com/70676084/192139163-2743d75c-153a-42a0-a308-a63fb703dfb0.png)
