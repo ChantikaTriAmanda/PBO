@@ -36,7 +36,7 @@ Repository untuk mengupload Tugas-Tugas Matakuliah Pemrograman Berorientasi Obje
    
     }
   
-![image](https://user-images.githubusercontent.com/70676084/192139163-2743d75c-153a-42a0-a308-a63fb703dfb0.png)
+    ![image](https://user-images.githubusercontent.com/70676084/192139163-2743d75c-153a-42a0-a308-a63fb703dfb0.png)
 
 
 
