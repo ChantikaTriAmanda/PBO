@@ -52,13 +52,16 @@ Repository untuk mengupload Tugas-Tugas Matakuliah Pemrograman Berorientasi Obje
         
         System.out.println(" Pemrograman Berorientasi Objek");
     
-      }
+        }
    
     }
   
-    ![image](https://user-images.githubusercontent.com/70676084/192139163-2743d75c-153a-42a0-a308-a63fb703dfb0.png)
+  
+   Hasil :
+   
+   ![image](https://user-images.githubusercontent.com/70676084/192140016-0b6d30fd-fdb0-4811-a9d1-adf3e32b7541.png)
 
-
+   
 
 
 
